@@ -31,7 +31,7 @@ An ability to analyse and evaluate attacks and defenses in the context of applic
 An ability to design and evaluate robust machine learning models with Python and test them on benchmark data sets.
 
 **Class schedule/Course Outline (20 hours, 2 CFU)**
-1. [Introduction to Machine Learning Security: Threat Models and Attacks]((https://github.com/unica-mlsec/mlsec/blob/main/slides/01-mlsec-introduction.pdf)) - Sept. 14, 9-12 
+1. [Introduction to Machine Learning Security: Threat Models and Attacks](https://github.com/unica-mlsec/mlsec/blob/main/slides/01-mlsec-introduction.pdf) - Sept. 14, 9-12 
 2. Evasion attacks and countermeasures - Sept. 15, 15-18
 3. Evasion attacks and countermeasures (cont'd) - Sept. 16, 15-18
 4. Poisoning attacks and countermeasures - Sept. 17, 9-12

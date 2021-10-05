@@ -1,8 +1,9 @@
 # ML Security Practical Session
 
-Setup: install the requirements from the `requirements.txt` file:
+Setup: move in the `code` directory, and install the requirements from the `requirements.txt` file:
 
 ```shell
+cd code
 pip install -r requirements.txt
 ```
 

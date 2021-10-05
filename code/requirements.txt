@@ -1,0 +1,6 @@
+secml[foolbox]
+git+https://github.com/RobustBench/robustbench.git@v0.2.1
+pandas
+torch
+torchvision
+foolbox

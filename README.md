@@ -1,7 +1,7 @@
 ## Machine Learning Security 
-**Academic Year 2021-2022**
-
 A short course on adversarial machine learning.
+
+**Academic Year 2021-2022**
 
 **Instructors:** Dr. Battista Biggio
 

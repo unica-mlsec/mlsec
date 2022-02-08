@@ -34,7 +34,7 @@ An ability to design and evaluate robust machine learning models with Python and
 
 **Class schedule/Course Outline (20 hours, 2 CFU)**
 1. [Introduction to Machine Learning Security: Threat Models and Attacks](https://github.com/unica-mlsec/mlsec/blob/main/slides/01-mlsec-introduction.pdf)  ([Video01](https://youtu.be/5wOWcWepktM))  - Sept. 14, 9-12; Sept. 15, 15-16. 
-2. [Evasion attacks and countermeasures](https://github.com/unica-mlsec/mlsec/blob/main/slides/02-mlsec-advx.pdf) - Sept. 15, 16-18; Sept. 16, 15-18; Sept. 17, 9-10.
-4. [Poisoning attacks and countermeasures](https://github.com/unica-mlsec/mlsec/blob/main/slides/03-mlsec-poisoning.pdf) - Sept. 17, 10-12.
-5. [Backdoor poisoning, privacy-related threats, and defenses](https://github.com/unica-mlsec/mlsec/blob/main/slides/04-mlsec-other-attacks.pdf) - Sept. 22, 15-18.
-6. [Practical session with Python](code/README.md) - Sept. 23, 15-18.
+2. [Evasion attacks and countermeasures](https://github.com/unica-mlsec/mlsec/blob/main/slides/02-mlsec-advx.pdf) ([Video02](https://youtu.be/hC1l4MaykzU)) ([Video03](https://youtu.be/iI3sI9xYOgc)) - Sept. 15, 16-18; Sept. 16, 15-18; Sept. 17, 9-10.
+4. [Poisoning attacks and countermeasures](https://github.com/unica-mlsec/mlsec/blob/main/slides/03-mlsec-poisoning.pdf) ([Video04](https://youtu.be/-rUU2TzNmfk)) - Sept. 17, 10-12.
+5. [Backdoor poisoning, privacy-related threats, and defenses](https://github.com/unica-mlsec/mlsec/blob/main/slides/04-mlsec-other-attacks.pdf) ([Video05](https://youtu.be/vLS1XiCtJfo)) - Sept. 22, 15-18.
+6. [Practical session with Python](code/README.md) ([Video06](https://youtu.be/ZprXOo2WCqU)) - Sept. 23, 15-18.

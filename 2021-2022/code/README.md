@@ -7,7 +7,7 @@ cd code
 pip install -r requirements.txt
 ```
 
-First, read the tutorial notebook. It can be found [here](../code/notebooks/adversarial_evasion_attacks.ipynb).
+First, read the tutorial notebook. It can be found [here](ks/adversarial_evasion_attacks.ipynb).
 
 Then, we are going to write a pipeline for running a security evaluation experiment.
 

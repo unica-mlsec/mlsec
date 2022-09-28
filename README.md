@@ -1,19 +1,24 @@
 ## Machine Learning Security 
-A short course on adversarial machine learning.
 
-**Academic Year 2021-2022**
+**Academic Year 2022-2023**
+> The course will start on October 6, 2022. [Teams link](https://teams.microsoft.com/l/team/19%3aH_NJm6PY9cIXGkZs5jclOdZ8NHA_Ce2Xvalcz1FgWsU1%40thread.tacv2/conversations?groupId=87461e8f-9ff0-41be-be67-2c3a70ca6e9a&tenantId=6bfa74cc-fe34-4d57-97d3-97fd6e0edee1)
 
-**Instructors:** Dr. Battista Biggio
+**Instructors:** Prof. Battista Biggio
 
-**Teaching Assistants:** Dr. Ambra Demontis, Dr. Luca Demetrio, Dr. Kathrin Grosse, Maura Pintor
+**Teaching Assistants:** Dr. Maura Pintor, Dr. Ambra Demontis
 
-**PhD programme in Information Engineering and Science (Univ. Siena)**
-
-**PhD programme in Electronic and Computer Engineering (Univ. Cagliari)**
+**External Seminars:** Dr. Luca Demetrio, Prof. Fabio Roli
 
 **MSc in Computer Engineering, Cybersecurity and Artificial Intelligence (Univ. Cagliari)**
 
+**National PhD Program in Artificial Intelligence**
+
+**PhD Program in Electronic and Computer Engineering (Univ. Cagliari)**
+
 **GitHub repository for course material:** [https://github.com/unica-mlsec/mlsec](https://github.com/unica-mlsec/mlsec)
+
+
+
 
 **Course objectives and outcome**
 
@@ -32,9 +37,3 @@ An understanding of fundamental concepts and methods of machine learning securit
 An ability to analyse and evaluate attacks and defenses in the context of application-specific domains. 
 An ability to design and evaluate robust machine learning models with Python and test them on benchmark data sets.
 
-**Class schedule/Course Outline (20 hours, 2 CFU)**
-1. [Introduction to Machine Learning Security: Threat Models and Attacks](https://github.com/unica-mlsec/mlsec/blob/main/slides/01-mlsec-introduction.pdf)  ([Video01](https://youtu.be/5wOWcWepktM))  - Sept. 14, 9-12; Sept. 15, 15-16. 
-2. [Evasion attacks and countermeasures](https://github.com/unica-mlsec/mlsec/blob/main/slides/02-mlsec-advx.pdf) ([Video02](https://youtu.be/hC1l4MaykzU)) ([Video03](https://youtu.be/iI3sI9xYOgc)) - Sept. 15, 16-18; Sept. 16, 15-18; Sept. 17, 9-10.
-4. [Poisoning attacks and countermeasures](https://github.com/unica-mlsec/mlsec/blob/main/slides/03-mlsec-poisoning.pdf) ([Video04](https://youtu.be/-rUU2TzNmfk)) - Sept. 17, 10-12.
-5. [Backdoor poisoning, privacy-related threats, and defenses](https://github.com/unica-mlsec/mlsec/blob/main/slides/04-mlsec-other-attacks.pdf) ([Video05](https://youtu.be/vLS1XiCtJfo)) - Sept. 22, 15-18.
-6. [Practical session with Python](code/README.md) ([Video06](https://youtu.be/ZprXOo2WCqU)) - Sept. 23, 15-18.

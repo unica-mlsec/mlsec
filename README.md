@@ -1,7 +1,8 @@
 ## Machine Learning Security 
 
 **Academic Year 2022-2023**
-> The course will start on October 6, 2022. [Teams link](https://teams.microsoft.com/l/team/19%3aH_NJm6PY9cIXGkZs5jclOdZ8NHA_Ce2Xvalcz1FgWsU1%40thread.tacv2/conversations?groupId=87461e8f-9ff0-41be-be67-2c3a70ca6e9a&tenantId=6bfa74cc-fe34-4d57-97d3-97fd6e0edee1)
+> The course will start on October 6, 2022. 
+> [Teams link.](https://teams.microsoft.com/l/team/19%3aH_NJm6PY9cIXGkZs5jclOdZ8NHA_Ce2Xvalcz1FgWsU1%40thread.tacv2/conversations?groupId=87461e8f-9ff0-41be-be67-2c3a70ca6e9a&tenantId=6bfa74cc-fe34-4d57-97d3-97fd6e0edee1)
 
 **Instructors:** Prof. Battista Biggio
 
@@ -17,7 +18,9 @@
 
 **GitHub repository for course material:** [https://github.com/unica-mlsec/mlsec](https://github.com/unica-mlsec/mlsec)
 
-
+**Lectures**
+- Tuesday, 15-18, room N_3B (Lidia), building N
+- Thursday, 12-14, room I_IC (ex BI), building I 
 
 
 **Course objectives and outcome**

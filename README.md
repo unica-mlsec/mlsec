@@ -40,3 +40,6 @@ An understanding of fundamental concepts and methods of machine learning securit
 An ability to analyse and evaluate attacks and defenses in the context of application-specific domains. 
 An ability to design and evaluate robust machine learning models with Python and test them on benchmark data sets.
 
+**Course materials**
+1. [Introduction to the course](slides/01-MLSec-Course-Introduction.pdf)
+2. [Threat modeling and attacks on AI/ML models](slides/02-MLSec-Threat-Modeling.pdf)

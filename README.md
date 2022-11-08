@@ -44,4 +44,4 @@ An ability to design and evaluate robust machine learning models with Python and
 1. [Introduction to the course](slides/01-MLSec-Course-Introduction.pdf)
 2. [Threat modeling and attacks on AI/ML models](slides/02-MLSec-Threat-Modeling.pdf)
 3. Evasion Attacks
-4. Adversarial Windows Malware (Adversarial EXEmples) - Guest Lecture by Dr. Luca Demetrio
+4. [Adversarial Windows Malware (Adversarial EXEmples) - Guest Lecture by Dr. Luca Demetrio](slides/04-AdvEXE.pdf)

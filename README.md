@@ -49,7 +49,7 @@ An ability to design and evaluate robust machine learning models with Python and
 
 
 
-## Papers for the Reading Group exercise
+**Papers for the reading group exercise**
 1. C. Szegedy et al., [Intriguing properties of neural networks](https://arxiv.org/abs/1312.6199)
 2. B. Biggio et al., [Evasion Attacks against Machine Learning at Test Time](https://arxiv.org/abs/1708.06131)
 3. A. Athalye et al., [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/abs/1802.00420)

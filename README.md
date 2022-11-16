@@ -46,3 +46,20 @@ An ability to design and evaluate robust machine learning models with Python and
 3. [Evasion Attacks](slides/03-Evasion-Attacks.pdf)
 4. [Adversarial Windows Malware (Adversarial EXEmples) - Guest Lecture by Dr. Luca Demetrio](slides/04-AdvEXE.pdf)
 5. Poisoning Attacks
+
+
+
+## Papers for the Reading Group exercise
+1. C. Szegedy et al., [Intriguing properties of neural networks](https://arxiv.org/abs/1312.6199)
+2. B. Biggio et al., [Evasion Attacks against Machine Learning at Test Time](https://arxiv.org/abs/1708.06131)
+3. A. Athalye et al., [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/abs/1802.00420)
+4. F. Croce and M. Hein, [Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks](https://arxiv.org/abs/2003.01690)
+5. F. Croce et al., [Evaluating the Adversarial Robustness of Adaptive Test-time Defenses](https://arxiv.org/pdf/2202.13711.pdf)
+6. C. Yao et al., [Automated Discovery of Adaptive Attacks on Adversarial Defenses](https://arxiv.org/abs/2102.11860)
+7. B. Biggio et al., [Poisoning Attacks against Support Vector Machines](https://arxiv.org/abs/1206.6389)
+8. A. Shafahi et al., [Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks](https://arxiv.org/abs/1804.00792)
+9. T. Gu et al., [BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain](https://arxiv.org/abs/1708.06733)
+10. R. Shokri et al., [Membership Inference Attacks against Machine Learning Models](https://arxiv.org/abs/1610.05820)
+11. F. Tramer et al., [Stealing Machine Learning Models via Prediction APIs](https://arxiv.org/abs/1609.02943)
+
+

@@ -47,6 +47,8 @@ An ability to design and evaluate robust machine learning models with Python and
 4. [Adversarial Windows Malware (Adversarial EXEmples) - Guest Lecture by Dr. Luca Demetrio](slides/04-AdvEXE.pdf)
 5. [From Known Knowns to Unknown Unknowns and Trustworthy AI - Guest Lecture by Prof. Fabio Roli](slides/05-AIRegulations.pdf)
 6. [Poisoning Attacks and Defenses](slides/06-Poisoning-Attacks.pdf)
+7. [Privacy Attacks and Defenses](slides/07-Privacy.pdf)
+8. [Explainable AI/ML](slides/08-xAI.pdf)
 
 
 

@@ -44,11 +44,12 @@ An ability to design and evaluate robust machine learning models with Python and
 1. [Introduction to the course](slides/01-MLSec-Course-Introduction.pdf)
 2. [Threat modeling and attacks on AI/ML models](slides/02-MLSec-Threat-Modeling.pdf)
 3. [Evasion Attacks](slides/03-Evasion-Attacks.pdf)
-4. [Adversarial Windows Malware (Adversarial EXEmples) - Guest Lecture by Dr. Luca Demetrio](slides/04-AdvEXE.pdf)
-5. [From Known Knowns to Unknown Unknowns and Trustworthy AI - Guest Lecture by Prof. Fabio Roli](slides/05-AIRegulations.pdf)
-6. [Poisoning Attacks and Defenses](slides/06-Poisoning-Attacks.pdf)
-7. [Privacy Attacks and Defenses](slides/07-Privacy.pdf)
-8. [Explainable AI/ML](slides/08-xAI.pdf)
+4. [Poisoning Attacks and Defenses](slides/04-Poisoning-Attacks.pdf)
+5. [Privacy Attacks and Defenses](slides/05-Privacy.pdf)
+6. [Explainable AI/ML](slides/06-xAI.pdf)
+7. [Adversarial Windows Malware (Adversarial EXEmples) - Guest Lecture by Dr. Luca Demetrio](slides/07-AdvEXE.pdf)
+8. [Short History of AI: From Foundations to the EU AI Act - Guest Lecture by Prof. Fabio Roli](slides/08-AIRegulations.pdf)
+
 
 
 

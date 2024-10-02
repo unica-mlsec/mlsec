@@ -41,7 +41,7 @@ An ability to analyse and evaluate attacks and defenses in the context of applic
 An ability to design and evaluate robust machine learning models with Python and test them on benchmark data sets.
 
 **Course materials**
-1. [Introduction to the course](slides/01-MLSec-Course-Introduction.pdf)
+1. [Introduction to the course (Updated)](slides/01-MLSec-Course-Introduction.pdf)
 2. [Threat modeling and attacks on AI/ML models](slides/02-MLSec-Threat-Modeling.pdf)
 3. [Evasion Attacks](slides/03-Evasion-Attacks.pdf)
 4. [Poisoning Attacks and Defenses](slides/04-Poisoning-Attacks.pdf)

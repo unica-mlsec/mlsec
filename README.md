@@ -6,9 +6,9 @@
 
 **Instructors:** Prof. Battista Biggio
 
-**Teaching Assistants:** Dr. Maura Pintor, Dr. Ambra Demontis
+**Teaching Assistants:** Dr. Maura Pintor, Dr. Ambra Demontis, Dr. Angelo Sotgiu
 
-**External Seminars:** Dr. Luca Demetrio, Prof. Fabio Roli
+**External Seminars:** Dr. Antonio Emanuele Cinà, Dr. Luca Demetrio
 
 **MSc in Computer Engineering, Cybersecurity and Artificial Intelligence (Univ. Cagliari)**
 

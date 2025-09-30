@@ -39,10 +39,11 @@ An ability to analyse and evaluate attacks and defenses in the context of applic
 An ability to design and evaluate robust machine learning models with Python and test them on benchmark data sets.
 
 **Course materials (2025/2026)**
+
 The new materials for the course will be updated after each lecture/week. 
 Meanwhile, you can refer to the materials from the previous year below.
-1. 
-2. 
+
+ 
 
 
 **Course materials (2024/2025)**

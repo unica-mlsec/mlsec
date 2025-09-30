@@ -38,8 +38,15 @@ An understanding of fundamental concepts and methods of machine-learning securit
 An ability to analyse and evaluate attacks and defenses in the context of application-specific domains. 
 An ability to design and evaluate robust machine learning models with Python and test them on benchmark data sets.
 
-**Course materials**
-1. [Introduction to the course (Updated)](slides/01-MLSec-Course-Introduction.pdf)
+**Course materials (2025/2026)**
+The new materials for the course will be updated after each lecture/week. 
+Meanwhile, you can refer to the materials from the previous year below.
+1. 
+2. 
+
+
+**Course materials (2024/2025)**
+1. [Introduction to the course](slides/01-MLSec-Course-Introduction.pdf)
 2. [Threat modeling and attacks on AI/ML models](slides/02-MLSec-Threat-Modeling.pdf)
 3. [Evasion Attacks](slides/03-Evasion-Attacks.pdf)
 4. [Certified Defenses (Guest Lecture by Dr. Fabio Brau)](slides/04-Certifiable-Robustness.pdf)

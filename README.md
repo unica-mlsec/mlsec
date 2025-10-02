@@ -18,7 +18,7 @@
 
 **Lectures**
 - Thursday, 9.30-11.30, I_2C (ex R), building I
-- Friday, 10.30-13.30, room I_IB (ex BA), building I
+- Friday, 10.30-13.30, room D, building B
 
 
 **Course objectives and outcome**

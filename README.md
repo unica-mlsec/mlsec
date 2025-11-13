@@ -1,14 +1,12 @@
 ## Machine Learning Security 
 
-**Academic Year 2024-2025**
-> The course will start on October 1, 2024. 
+**Academic Year 2025-2026**
+> The course will start on October 2, 2025. 
 > [Teams link.](https://teams.microsoft.com/l/team/19%3aH_NJm6PY9cIXGkZs5jclOdZ8NHA_Ce2Xvalcz1FgWsU1%40thread.tacv2/conversations?groupId=87461e8f-9ff0-41be-be67-2c3a70ca6e9a&tenantId=6bfa74cc-fe34-4d57-97d3-97fd6e0edee1)
 
 **Instructors:** Prof. Battista Biggio
 
-**Teaching Assistants:** Dr. Maura Pintor, Dr. Ambra Demontis
-
-**External Seminars:** Dr. Luca Demetrio, Prof. Fabio Roli
+**Teaching Assistants:** Dr. Maura Pintor, Dr. Ambra Demontis, Dr. Angelo Sotgiu, Dr. Fabio Brau
 
 **MSc in Computer Engineering, Cybersecurity and Artificial Intelligence (Univ. Cagliari)**
 
@@ -19,8 +17,8 @@
 **GitHub repository for course material:** [https://github.com/unica-mlsec/mlsec](https://github.com/unica-mlsec/mlsec)
 
 **Lectures**
-- Tuesday, 15-18, room I_ID (ex AN), building I
-- Thursday, 12-14, I_IB (ex BA), building I
+- Thursday, 9.30-11.30, I_2C (ex R), building I
+- Friday, 10.30-13.30, room D, building B
 
 
 **Course objectives and outcome**
@@ -31,17 +29,25 @@ The objective of this course is to provide students
 with the fundamental elements of machine learning security in the context of different application domains. 
 The main concepts and methods of adversarial machine 
 learning are presented, from threat modeling to attacks and defenses, 
-as well as basic methods to properly evaluate adversarial robustness 
+as well as basic methods to properly evaluate the adversarial robustness 
 of a machine learning model against different attacks.
  
 _Outcome_
 
-An understanding of fundamental concepts and methods of machine learning security and its applications. 
+An understanding of fundamental concepts and methods of machine-learning security and its applications. 
 An ability to analyse and evaluate attacks and defenses in the context of application-specific domains. 
 An ability to design and evaluate robust machine learning models with Python and test them on benchmark data sets.
 
-**Course materials**
-1. [Introduction to the course (Updated)](slides/01-MLSec-Course-Introduction.pdf)
+**Course materials (2025/2026)**
+
+The new materials for the course will be updated after each lecture/week. 
+Meanwhile, you can refer to the materials from the previous year below.
+
+ 
+
+
+**Course materials (2024/2025)**
+1. [Introduction to the course](slides/01-MLSec-Course-Introduction.pdf)
 2. [Threat modeling and attacks on AI/ML models](slides/02-MLSec-Threat-Modeling.pdf)
 3. [Evasion Attacks](slides/03-Evasion-Attacks.pdf)
 4. [Certified Defenses (Guest Lecture by Dr. Fabio Brau)](slides/04-Certifiable-Robustness.pdf)
@@ -50,18 +56,5 @@ An ability to design and evaluate robust machine learning models with Python and
 7. [Explainable AI/ML](slides/07-xAI.pdf)
 8. [Adversarial Windows Malware (Adversarial EXEmples) - Guest Lecture by Dr. Luca Demetrio](slides/08-AdvEXE.pdf)
 
-
-**Papers for the reading group exercise**
-1. C. Szegedy et al., [Intriguing properties of neural networks](https://arxiv.org/abs/1312.6199), ICLR 2014.
-2. B. Biggio et al., [Evasion Attacks against Machine Learning at Test Time](https://arxiv.org/abs/1708.06131), ECML PKDD 2013.
-3. A. Athalye et al., [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/abs/1802.00420), ICML 2018.
-4. F. Croce and M. Hein, [Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks](https://arxiv.org/abs/2003.01690), ICML 2020.
-5. F. Croce et al., [Evaluating the Adversarial Robustness of Adaptive Test-time Defenses](https://arxiv.org/pdf/2202.13711.pdf), ICML 2022.
-6. C. Yao et al., [Automated Discovery of Adaptive Attacks on Adversarial Defenses](https://arxiv.org/abs/2102.11860), NeurIPS 2021.
-7. B. Biggio et al., [Poisoning Attacks against Support Vector Machines](https://arxiv.org/abs/1206.6389), ICML 2012.
-8. A. Shafahi et al., [Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks](https://arxiv.org/abs/1804.00792), NeurIPS 2018.
-9. T. Gu et al., [BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain](https://arxiv.org/abs/1708.06733), NIPS-WS 2017.
-10. R. Shokri et al., [Membership Inference Attacks against Machine Learning Models](https://arxiv.org/abs/1610.05820), IEEE Symp. S&P 2017.
-11. F. Tramer et al., [Stealing Machine Learning Models via Prediction APIs](https://arxiv.org/abs/1609.02943), USENIX Sec. 2016.
 
 

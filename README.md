@@ -40,13 +40,6 @@ An ability to design and evaluate robust machine learning models with Python and
 
 **Course materials (2025/2026)**
 
-The new materials for the course will be updated after each lecture/week. 
-Meanwhile, you can refer to the materials from the previous year below.
-
- 
-
-
-**Course materials (2024/2025)**
 1. [Introduction to the course](slides/01-MLSec-Course-Introduction.pdf)
 2. [Threat modeling and attacks on AI/ML models](slides/02-MLSec-Threat-Modeling.pdf)
 3. [Evasion Attacks](slides/03-Evasion-Attacks.pdf)
@@ -54,7 +47,7 @@ Meanwhile, you can refer to the materials from the previous year below.
 5. [Poisoning Attacks and Defenses (new! updated Nov. 2025)](slides/05-Poisoning-Attacks.pdf)
 6. [Privacy Attacks and Defenses](slides/06-Privacy.pdf)
 7. [Explainable AI/ML](slides/07-xAI.pdf)
-8. [Adversarial Windows Malware (Adversarial EXEmples) - Guest Lecture by Dr. Luca Demetrio](slides/08-AdvEXE.pdf)
+
 
 
 

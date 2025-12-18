@@ -47,6 +47,7 @@ An ability to design and evaluate robust machine learning models with Python and
 5. [Poisoning Attacks and Defenses (new! updated Nov. 2025)](slides/05-Poisoning-Attacks.pdf)
 6. [Privacy Attacks and Defenses](slides/06-Privacy.pdf)
 7. [Explainable AI/ML](slides/07-xAI.pdf)
+8. [AI Agents (Guest Lecture by Dr. Maura Pintor)](slides/08-AI-agents.pdf)
 
 
 

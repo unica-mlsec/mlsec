@@ -1,7 +1,7 @@
 ## Machine Learning Security 
 
-**Academic Year 2025-2026**
-> The course will start on October 2, 2025. 
+**Academic Year 2026-2027**
+> The course will start on October 1, 2026. 
 > [Teams link.](https://teams.microsoft.com/l/team/19%3aH_NJm6PY9cIXGkZs5jclOdZ8NHA_Ce2Xvalcz1FgWsU1%40thread.tacv2/conversations?groupId=87461e8f-9ff0-41be-be67-2c3a70ca6e9a&tenantId=6bfa74cc-fe34-4d57-97d3-97fd6e0edee1)
 
 **Instructors:** Prof. Battista Biggio
